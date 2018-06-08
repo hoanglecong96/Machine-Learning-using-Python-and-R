@@ -50,4 +50,3 @@ ggplot()+
   ggtitle('Truth or Bluff (SVR)')+
   xlab('Level')+
   ylab('Salary')
-
