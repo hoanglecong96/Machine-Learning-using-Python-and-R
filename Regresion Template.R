@@ -45,4 +45,3 @@ ggplot()+
   ggtitle('Truth or Bluff (Regression)')+
   xlab('Level')+
   ylab('Salary')
-
